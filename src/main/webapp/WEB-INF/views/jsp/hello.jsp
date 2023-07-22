@@ -28,11 +28,11 @@
 		</c:if>
  
 		<c:if test="${empty name}">
-			Welcome Welcome!
+			Welcome Veda & Karthikeya!
 		</c:if>
     </p>
     <p>
-		<a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+		<a class="btn btn-primary btn-lg" href="#" role="button">Learn more & more</a>
 	</p>
 	</div>
 </div>
